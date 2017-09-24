@@ -1,6 +1,6 @@
 ---
 name:
-   first: Abhinav
-   last: Gupta
-email: abhinavg@nyu.edu
-leaderboard: backpropper
+   first: Stephen
+   last: Balogh
+email: sgb334@nyu.edu
+leaderboard: sgbalogh
